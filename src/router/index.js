@@ -2,7 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import PdfView from '../views/PdfView.vue'
-
+import VideoView from '../views/VideoView.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -15,6 +15,11 @@ const routes = [
     path: '/pdfView',
     name: 'PdfView',
     component: PdfView
+  },
+  {
+    path: '/videoView',
+    name: 'VideoView',
+    component: VideoView
   },
   {
     path: '/about',
