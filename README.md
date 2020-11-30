@@ -42,3 +42,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 [vue-video-player](https://github.com/surmon-china/vue-video-player).
 
+[vue PDFView VideoView](https://github.com/liyuexing/vue-pdf-view.git).
