@@ -23,7 +23,11 @@ npm run build
 ```
 
 ### PDF View
-![PDF View](./src/assets/view.png "pdf view")
+![PDF View](./src/assets/pdf_view.png "pdf view")
+
+### Video Play
+![Video Play](./src/assets/video_view.png "pdf view")
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
@@ -34,4 +38,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 [vue-demo](https://github.com/shengbid/vue-demo).
 
+[vue-video-player blog](https://my.oschina.net/u/3018050/blog/1821742/).
+
+[vue-video-player](https://github.com/surmon-china/vue-video-player).
 
